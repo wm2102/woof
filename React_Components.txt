@@ -1,0 +1,6 @@
+[Components]
+1. 각 js 파일을 통해 구현하는 단위
+2. html을 돌려주는 function
+
+<{Component_Name}/>
+import {Component_Name} from "{Component_Path}"

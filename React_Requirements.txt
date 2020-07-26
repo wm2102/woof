@@ -1,0 +1,6 @@
+[React JS Requirements]
+1. Node JS install
+2. NPX Install 
+- npm install npx -g
+3. Git Install
+- https://git-scm.com/download/win 

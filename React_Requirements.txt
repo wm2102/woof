@@ -4,3 +4,15 @@
 - npm install npx -g
 3. Git Install
 - https://git-scm.com/download/win 
+4. Create React App (생성하고 싶은 경로 아래)
+- npx create-react-app {AppName}
+5. package.json
+- test, alert 삭제
+6. npm start
+- 서버 시작
+7. git init
+- Create Project on your git account
+8. git remote add origin {URL of Git Project}
+9. git add .
+10. git commit -m "{commit title}"
+11. git push origin master
